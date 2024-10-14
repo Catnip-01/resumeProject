@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/resumeProject/static/css/main.f855e6bc.css",
+    "main.js": "/resumeProject/static/js/main.0f5efa64.js",
+    "static/js/453.258b012d.chunk.js": "/resumeProject/static/js/453.258b012d.chunk.js",
+    "static/media/Roboto-Regular.ttf": "/resumeProject/static/media/Roboto-Regular.27f62b53b93858475a7f.ttf",
+    "static/media/Roboto-Black.ttf": "/resumeProject/static/media/Roboto-Black.4afbed674a5252ead176.ttf",
+    "static/media/light.svg": "/resumeProject/static/media/light.e034ad7c81926cf075279e7de8d9ee10.svg",
+    "static/media/moon.svg": "/resumeProject/static/media/moon.7c663702e6f3cd95b32decb41e03dbee.svg",
+    "index.html": "/resumeProject/index.html",
+    "main.f855e6bc.css.map": "/resumeProject/static/css/main.f855e6bc.css.map",
+    "main.0f5efa64.js.map": "/resumeProject/static/js/main.0f5efa64.js.map",
+    "453.258b012d.chunk.js.map": "/resumeProject/static/js/453.258b012d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.0f5efa64.js"
+  ]
+}
